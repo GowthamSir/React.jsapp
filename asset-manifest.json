@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GowthamSir/React.jsapp.git/static/css/main.dbcb5801.css",
+    "main.js": "/GowthamSir/React.jsapp.git/static/js/main.9b13ea5e.js",
+    "index.html": "/GowthamSir/React.jsapp.git/index.html",
+    "main.dbcb5801.css.map": "/GowthamSir/React.jsapp.git/static/css/main.dbcb5801.css.map",
+    "main.9b13ea5e.js.map": "/GowthamSir/React.jsapp.git/static/js/main.9b13ea5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbcb5801.css",
+    "static/js/main.9b13ea5e.js"
+  ]
+}
